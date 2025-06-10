@@ -128,6 +128,9 @@ Payload:
 
 { "estado": "ON" } - Led ligado
 
+## Imagem do projeto
+![Imagem do projeto](Imagens/imagem.jpg)
+
 8. Estrutura de Tópicos por Cômodo
 
 Cômodo	Tópico Set	Tópico Status
@@ -151,5 +154,5 @@ Se for propor algo maior (como uma nova feature ou refatoração), abra antes um
 
 Siga o estilo e os padrões de codificação existentes para mantermos o projeto coeso.
 
-Vamos evoluir esse projeto de forma colaborativa. Toda contribuição conta! 🚀
+Vamos evoluir esse projeto de forma colaborativa. Toda contribuição conta! 🚀  
 
